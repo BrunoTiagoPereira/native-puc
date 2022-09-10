@@ -2569,7 +2569,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*":
+"@types/react@*", "@types/react@^18.0.19":
   version "18.0.19"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.19.tgz#269a5f35b9a73c69dfb0c7189017013ab02acbaa"
   integrity sha512-BDc3Q+4Q3zsn7k9xZrKfjWyJsSlEDMs38gD1qp2eDazLCdcPqAT+vq1ND+Z8AGel/UiwzNUk8ptpywgNQcJ1MQ==
@@ -3927,7 +3927,7 @@ expo-modules-core@0.11.5:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-secure-store@^11.3.0:
+expo-secure-store@~11.3.0:
   version "11.3.0"
   resolved "https://registry.yarnpkg.com/expo-secure-store/-/expo-secure-store-11.3.0.tgz#7f2f05f6aa6669f2d31e034561aa6b3d530a71a0"
   integrity sha512-k8dw1v7MCHIv7MnAIBXqyqplJo0I5MmRjZXO7bsVPb/BqWvvfBo/JAFdM6K60X6szh+13TWgxwx6GxAkCJVUnQ==
@@ -5084,11 +5084,6 @@ lines-and-columns@^1.1.6:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.2.4.tgz#eca284f75d2965079309dc0ad9255abb2ebc1632"
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
-
-loadash@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/loadash/-/loadash-1.0.0.tgz#b92e54d809f3c225f4f9a9cfbaeae5b56de1ca9f"
-  integrity sha512-xlX5HBsXB3KG0FJbJJG/3kYWCfsCyCSus3T+uHVu6QL6YxAdggmm3QeyLgn54N2yi5/UE6xxL5ZWJAAiHzHYEg==
 
 locate-path@^3.0.0:
   version "3.0.0"
